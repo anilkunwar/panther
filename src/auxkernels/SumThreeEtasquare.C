@@ -9,7 +9,7 @@
 
 #include "SumThreeEtasquare.h"
 
-registerMooseObject("newtApp", SumThreeEtasquare);
+registerMooseObject("pantherApp", SumThreeEtasquare);
 
 template <>
 InputParameters
