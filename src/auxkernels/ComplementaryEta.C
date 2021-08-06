@@ -9,7 +9,7 @@
 
 #include "ComplementaryEta.h"
 
-registerMooseObject("newtApp", ComplementaryEta);
+registerMooseObject("pantherApp", ComplementaryEta);
 
 template <>
 InputParameters
