@@ -9,7 +9,7 @@
 
 #include "FourPhasesSumEtasquare.h"
 
-registerMooseObject("newtApp", FourPhasesSumEtasquare);
+registerMooseObject("pantherApp", FourPhasesSumEtasquare);
 
 template <>
 InputParameters
