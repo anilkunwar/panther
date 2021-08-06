@@ -9,7 +9,7 @@
 
 #include "SumEtaimc.h"
 
-registerMooseObject("newtApp", SumEtaimc);
+registerMooseObject("pantherApp", SumEtaimc);
 
 template <>
 InputParameters
