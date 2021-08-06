@@ -9,7 +9,7 @@
 
 #include "HfsSumCdothsquare.h"
 
-registerMooseObject("newtApp", HfsSumCdothsquare);
+registerMooseObject("pantherApp", HfsSumCdothsquare);
 
 template <>
 InputParameters
