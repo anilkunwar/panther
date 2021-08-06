@@ -9,7 +9,7 @@
 
 #include "IonConcentration.h"
 
-registerMooseObject("newtApp", IonConcentration);
+registerMooseObject("pantherApp", IonConcentration);
 
 template <>
 InputParameters
