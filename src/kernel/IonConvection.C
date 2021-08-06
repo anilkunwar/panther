@@ -15,7 +15,7 @@
  * This function defines the valid parameters for
  * this Kernel and their default values
  */
-registerMooseObject("newtApp", IonConvection);
+registerMooseObject("pantherApp", IonConvection);
 template <>
 InputParameters
 validParams<IonConvection>()
