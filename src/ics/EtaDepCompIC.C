@@ -1,5 +1,5 @@
 #include "EtaDepCompIC.h"
-registerMooseObject("newtApp", EtaDepCompIC);
+registerMooseObject("pantherApp", EtaDepCompIC);
 
 template <>
 InputParameters
