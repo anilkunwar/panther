@@ -9,7 +9,7 @@
  * This function defines the valid parameters for
  * this Kernel and their default values
  */
-registerMooseObject("newtApp", CoupledPotentialPoisson);
+registerMooseObject("pantherApp", CoupledPotentialPoisson);
 
 template <>
 InputParameters
