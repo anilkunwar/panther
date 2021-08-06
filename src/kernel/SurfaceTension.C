@@ -14,7 +14,7 @@
 
 #include "SurfaceTension.h"
 //\\ This kernel acts like a source kernel
-registerMooseObject("newtApp", SurfaceTension);
+registerMooseObject("pantherApp", SurfaceTension);
 template<>
 InputParameters validParams<SurfaceTension>()
 {
