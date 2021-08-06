@@ -10,7 +10,7 @@
  * This function defines the valid parameters for
  * this Kernel and their default values
  */
-registerMooseObject("newtApp", ElectrochemicalMigration);
+registerMooseObject("pantherApp", ElectrochemicalMigration);
 template <>
 InputParameters
 validParams<ElectrochemicalMigration>()
