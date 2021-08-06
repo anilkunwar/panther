@@ -13,7 +13,7 @@
  * This function defines the valid parameters for
  * this Kernel and their default values
  */
-registerMooseObject("newtApp", CHConvection);
+registerMooseObject("pantherApp", CHConvection);
 template <>
 InputParameters
 validParams<CHConvection>()
